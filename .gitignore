@@ -12,8 +12,10 @@ env/
 .ipynb_checkpoints/
 
 # Data
-data/raw/*.csv
-data/processed/*.csv
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
 
 # Models
 models/*.pkl
