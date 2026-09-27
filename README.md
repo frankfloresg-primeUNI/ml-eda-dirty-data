@@ -1,4 +1,3 @@
-
 # ML EDA - Adult Income
 
 ## Descripción
